@@ -1,7 +1,7 @@
 ## Programming Language
 * Java, C++, Python, JavaScript
 
-## 알고리즘 사이트
+## Algorithm Site
 * **baekjoon**: https://www.acmicpc.net/
 * **programmers**: https://programmers.co.kr/learn/challenges
 * **hackerrank**: https://www.hackerrank.com/
@@ -14,7 +14,7 @@
 * **geeksforgeeks**: https://www.geeksforgeeks.org/
 * **codeforces**: http://codeforces.com
 
-## 폴더 구조
+## Folder Structure
 * 폴더 구조는 다음과 같다.
     * 사이트 폴더 - 문제 폴더 - 소스코드 및 풀이방법 파일
         * 예) ```baekjoon ```폴더 -> ```1000``` 폴더 -> ```mark_1000.java``` , ```mark_1000.md```
@@ -34,7 +34,7 @@
         * 예) ```mark_baekjoon_1000```를 브런치 이름으로 한다.
     * ```commit message```는 자유롭게 한다.
 
-## 참고 사이트
+## 참고
 * [알고리즘 공부법](https://gmlwjd9405.github.io/2018/05/14/how-to-study-algorithms.html)
 * [TheCopiens/algorithm-study](https://github.com/TheCopiens/algorithm-study)
 * [epicarts/algorithm-study](https://github.com/epicarts/algorithm-study)
