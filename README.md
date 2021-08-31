@@ -37,4 +37,5 @@
 ## 참고 사이트
 * [알고리즘 공부법](https://gmlwjd9405.github.io/2018/05/14/how-to-study-algorithms.html)
 * [TheCopiens/algorithm-study](https://github.com/TheCopiens/algorithm-study)
+* [epicarts/algorithm-study](https://github.com/epicarts/algorithm-study)
 * [WeareSoft/algorithm-study](https://github.com/WeareSoft/algorithm-study)
