@@ -52,7 +52,7 @@ JavaScript로 알고리즘을 진행 할 경우 Node.js 방식으로 진행한�
 
 Node.js 설치가 되어있어야하고 설치가 되지 않았다면 [Node.js](https://nodejs.org/ko/) 설치 후 진행하기 바란다.
 
-- vsc 으로 진행 방법
+- vsc 으로 진행 방법 (백준 기준)
 
   1. node_modules가 필요하기 때문에 맨 처음 clone을 받으면 npm install을 한다.
   2. 문제번호 Directory 생성
