@@ -1,0 +1,22 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "* Java, C++, Python, JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soobin-yoon/algorithm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soobin-yoon/algorithm/issues"
+  },
+  "homepage": "https://github.com/soobin-yoon/algorithm#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
