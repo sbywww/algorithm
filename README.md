@@ -60,8 +60,11 @@ Node.js 설치가 되어있어야하고 설치가 되지 않았다면 [Node.js](
   4. JavaScript 파일을 만들고 알고리즘 진행
   5. 입력 받는 방법은 다음과 같이 사용하면 된다. (`/baekjoon/10998/mark_10998.js 참고`)
 
-     ```
-     const input = require('fs').readFileSync(__dirname + '/input.txt').toString().split(" ");
+     ```javascript
+     const input = require("fs")
+       .readFileSync(__dirname + "/input.txt")
+       .toString()
+       .split(" ");
      const result = Number(input[0]) + Number(input[1]);
      ```
 
