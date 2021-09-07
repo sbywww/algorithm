@@ -1,5 +1,12 @@
-public class Mark_1000 {
+import java.util.Scanner;
+
+public class mark_1000 {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        Scanner sc = new Scanner(System.in);
+
+        int a = sc.nextInt();
+        int b = sc.nextInt();
+
+        System.out.println(a + b);
     }
 }
