@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class deokki_1330 {
+public class mode_1330 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
