@@ -16,6 +16,11 @@
 - **geeksforgeeks**: https://www.geeksforgeeks.org/
 - **codeforces**: http://codeforces.com
 
+## 알고리즘 진행방법
+코드 리뷰의 가독성을 위해, 변수명과 로직을 명확하게 작성하도록 합니다.
+
+다른 사람이 이해할 수 있게 작성해주세요.
+
 ## Folder Structure
 
 - 폴더 구조는 다음과 같다.
@@ -27,15 +32,25 @@
     - `1000`, `1234`
   - 소스코드: 자신의 `이름` 혹은 `아이디` 뒤에 `.확장자명`으로 작성한다.
     - `mark_1000.java`, `mark_1000.java`, `mark_1000.cpp`
-  - 풀이방법: 자신의 `이름` 혹은 `아이디` 뒤에 `.풀이방법.md` 로 작성한다.
+  - 풀이방법: 자신의 `이름` 혹은 `아이디` 뒤에 `.풀이방법.md` 로 작성한다. (EASY 난이도는 생략 가능)
     - `mark_1000.md`
 
 ## Commit Rule
 
-- Commit Rule은 다음을 참고한다
-  - 브런치 생성: `자기이름(혹은 아이디)_사이트_문제번호`
-    - 예) `mark_baekjoon_1000`를 브런치 이름으로 한다.
-  - `commit message`는 자유롭게 한다.
+- Commit Message는 `아이디 또는 이름_문제출처_문제번호` 로 작성합니다.
+  
+## PR (Pull Request) Rule
+제목 : [알고리즘 사이트]문제번호
+Label : 문제 푼 사이트, 언어, 난이도(옵션)
+
+PR 본문:
+1. input / output 기재
+2. 풀이 방법 또는 아이디어 제공
+
+Label:
+1. 문제출처 (`BOJ`, `LeetCode`, `Programmers` ...)
+2. 풀이언어 (`Java`, `JavaScript`, `Python`, `C`, `C++`)
+3. 난이도 (`EASY`, `NORMAL`, `HARD`)
 
 ## Java
 
