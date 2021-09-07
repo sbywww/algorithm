@@ -50,7 +50,7 @@ PR 본문:
 Label:
 1. 문제출처 (`BOJ`, `LeetCode`, `Programmers` ...)
 2. 풀이언어 (`Java`, `JavaScript`, `Python`, `C`, `C++`)
-3. 난이도 (`EASY`, `NORMAL`, `HARD`)
+3. 난이도 (`Easy`, `Medium`, `Hard`)
 
 ## Java
 
