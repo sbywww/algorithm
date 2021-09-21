@@ -16,3 +16,21 @@ func marty_1000(){
     
     print(A + B)
 }
+func marty_1001(){
+    let str = readLine() ?? ""
+    let arr = str.split(separator: " ")
+    
+    let A = Int(arr[0]) ?? 0
+    let B = Int(arr[1]) ?? 0
+    
+    print(A - B)
+}
+func marty_1008(){
+    let str = readLine() ?? ""
+    let arr = str.split(separator: " ")
+    
+    let A = Double(arr[0]) ?? 0
+    let B = Double(arr[1]) ?? 0
+    
+    print(A / B)
+}

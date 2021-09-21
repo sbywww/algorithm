@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1B1B69F026FA0B0800B95DE1 /* Marty1000.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B1B69EF26FA0B0800B95DE1 /* Marty1000.swift */; };
+		1B1B69F026FA0B0800B95DE1 /* Marty10xx.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B1B69EF26FA0B0800B95DE1 /* Marty10xx.swift */; };
+		1B1B69F226FA195B00B95DE1 /* Marty1018.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B1B69F126FA195B00B95DE1 /* Marty1018.swift */; };
 		1B5C0D6026FA08F6006F4690 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B5C0D5F26FA08F6006F4690 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -24,7 +25,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		1B1B69EF26FA0B0800B95DE1 /* Marty1000.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Marty1000.swift; sourceTree = "<group>"; };
+		1B1B69EF26FA0B0800B95DE1 /* Marty10xx.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Marty10xx.swift; sourceTree = "<group>"; };
+		1B1B69F126FA195B00B95DE1 /* Marty1018.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Marty1018.swift; sourceTree = "<group>"; };
 		1B5C0D5C26FA08F6006F4690 /* Algoritm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algoritm; sourceTree = BUILT_PRODUCTS_DIR; };
 		1B5C0D5F26FA08F6006F4690 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -60,7 +62,8 @@
 			isa = PBXGroup;
 			children = (
 				1B5C0D5F26FA08F6006F4690 /* main.swift */,
-				1B1B69EF26FA0B0800B95DE1 /* Marty1000.swift */,
+				1B1B69EF26FA0B0800B95DE1 /* Marty10xx.swift */,
+				1B1B69F126FA195B00B95DE1 /* Marty1018.swift */,
 			);
 			path = Algoritm;
 			sourceTree = "<group>";
@@ -122,7 +125,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1B1B69F026FA0B0800B95DE1 /* Marty1000.swift in Sources */,
+				1B1B69F226FA195B00B95DE1 /* Marty1018.swift in Sources */,
+				1B1B69F026FA0B0800B95DE1 /* Marty10xx.swift in Sources */,
 				1B5C0D6026FA08F6006F4690 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
