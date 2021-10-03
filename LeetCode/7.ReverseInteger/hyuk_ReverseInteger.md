@@ -40,7 +40,7 @@ public static int reverse(int x) {
 ```
 
 ## 풀이
-```aidl
+```
 1. long result = 0;
 result를 int로 할 경우, int가 받을 수 있는 최대 값을 넘길 때, 
 0을 반환할 수 가 없어서 long으로 선언 후, 형변환 작업을 하도록 했다.
@@ -57,7 +57,7 @@ x를 계속 나눠, 0이 아닐 때 까지 반복.
 ```
 
 ## 느낀점
-```aidl
+```
 문제를 잘 해독하지 않고 result 선언을 long 타입으로 하지 않아서 계속 오버플로가 발생해 애를 먹었다.
 int가 가지는 최대값과 최솟값을 구할 때도 애를 먹었는데 찾아보니 Integer 클래스에서 제공하는 MIN.VALUE, MAX.VALUE가 있다는 것을 처음알았다.
 ```
