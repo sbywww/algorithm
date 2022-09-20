@@ -48,7 +48,7 @@ public class mark_11003 {
 
         // 결과 출력
         for (int d : D) {
-            System.out.print(d + " ");
+            bw.write(d + " ");
         }
 
         bw.flush();
